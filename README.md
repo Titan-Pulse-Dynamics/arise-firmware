@@ -1,3 +1,17 @@
+# ARISE Firmware
+
+ARISE missions FW development for M0 microcontrollers
+
+This project is derived from the OreSat firmware project developed by Portland State Aerospace Society.
+
+Original project:
+https://github.com/oresat/oresat-firmware
+
+Original License:
+GNU General Public License v3.0
+
+TPD modifications are identified in CHANGELOG.md and the relevant files and documentation.
+
 # oresat-firmware
 ## General Information
 This is the central repository for OreSat firmware development.
